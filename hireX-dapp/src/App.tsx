@@ -24,7 +24,7 @@ function App() {
         }}
       >
         <Box>
-          <Heading>dApp Starter Template</Heading>
+          <Heading>hireX</Heading>
         </Box>
 
         <Box>
